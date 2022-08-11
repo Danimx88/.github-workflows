@@ -8,7 +8,7 @@
   <a href="Apuntes_Java_Python_C-_JS_HTML_CSS_C_C-/github-contribution-grid-snake.svg">
               
  
-  <!--![Snake animation](https://github.com/LaiFrance/LaiFrance/blob/output/github-contribution-grid-snake.svg)-->
+  ![Snake animation](https://github.com/LaiFrance/LaiFrance/blob/output/github-contribution-grid-snake.svg)
  </h1>
 </div>
  
